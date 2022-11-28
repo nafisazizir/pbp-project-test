@@ -14,7 +14,7 @@
 
 ### LINK TO DEPLOYED WEBSITE
 
-[Midterm Project](https://midterm-project-group3ki.herokuapp.com/)
+[Midterm Project](https://pbp-project-test.herokuapp.com/)
 
 
 ### DESCRIPTION
